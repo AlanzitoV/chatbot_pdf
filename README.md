@@ -15,7 +15,7 @@ Este proyecto tiene como objetivo principal la demostración de la tecnología G
 1. En la variable 'OPENAI_API_KEY' reemplazar con la API KEY proporcionada por OpenAI en su pagina web.
 2. Correr en la terminal
 
-   streamlit run chatbot1.py
+       streamlit run chatbot1.py
 
 3. Arrastrar un archivo PDF a la barra lateral izquierda.
 4. Interactuar con el chatbot.
