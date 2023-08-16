@@ -3,6 +3,7 @@ Este proyecto tiene como objetivo principal la demostración de la tecnología G
 
 ------------
 ###Tecnologias Usadas:
+
     PyPDF2
     os
     streamlit
