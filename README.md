@@ -19,3 +19,6 @@ Este proyecto tiene como objetivo principal la demostración de la tecnología G
 
 3. Arrastrar un archivo PDF a la barra lateral izquierda.
 4. Interactuar con el chatbot.
+
+### Ejemplo:
+![](captura.png)
