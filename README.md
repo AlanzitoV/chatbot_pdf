@@ -3,11 +3,11 @@ Este proyecto tiene como objetivo principal la demostración de la tecnología G
 
 ------------
 ###Tecnologias Usadas:
-  PyPDF2
-  os
-  streamlit
-  streamlit_chat
-  langchain
+    PyPDF2
+    os
+    streamlit
+    streamlit_chat
+    langchain
 
 ------------
 ###Modo de uso:
